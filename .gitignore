@@ -398,3 +398,6 @@ yarn-error.log
 
 .notes.md
 baseline.json
+
+DatingApp.API/DatingApp.db
+DatingApp.API/appsettings.json
